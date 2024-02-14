@@ -3,10 +3,8 @@
 ## Overview
 This is a simple movie recommendation system built using Python and Streamlit. It recommends similar movies based on user input.
 
-## Features
-- Allows users to select a movie from a dropdown menu.
-- Recommends similar movies based on the selected movie.
-- Displays movie posters along with the recommendations.
+## Methodology
+We developed Movie Match by collecting data from Kaggle and preprocessing movie data, merging, and cleaning it for analysis. We used text vectorization techniques like bag-of-words and utilized cosine similarity to find similarities between movie vectors, enabling us to identify the top 5 nearest movies for recommendations. Our tech stack includes Python, Streamlit, NLTK (Natural Language Toolkit), Pandas, NumPy, and Scikit-learn.
 
 ## Usage
 - To use the movie recommendation system, follow the instructions in the [Prerequisites](Prerequisites.md) file.
