@@ -8,6 +8,9 @@ This is a simple movie recommendation system built using Python and Streamlit. I
 - Recommends similar movies based on the selected movie.
 - Displays movie posters along with the recommendations.
 
+## Usage
+- To use the movie recommendation system, follow the instructions in the [Prerequisites](Prerequisites.md) file.
+
 ## Data Sources
 - Movie data: The movie dataset used in this project is obtained from Kaggle. The data is comprised of two files: `movies.csv` and `credits.csv`.
 - Movie posters: Movie posters are fetched from The Movie Database (TMDb) API using an API key.
