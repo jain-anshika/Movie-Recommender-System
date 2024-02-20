@@ -8,6 +8,7 @@ Before running the movie recommendation system, you'll need to download the nece
   [Movies Dataset]([https://www.kaggle.com/username/dataset-name](https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata?select=tmdb_5000_movies.csv))
 - Download movie credits dataset from Kaggle:
   [Credits Dataset]([https://www.kaggle.com/username/dataset-name](https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata?select=tmdb_5000_credits.csv))
+- https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata
 - Alse install all the requirement mentioned in the requirements.txt or run this command
 ```
 pip install -r requirements.txt
